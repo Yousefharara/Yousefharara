@@ -34,26 +34,10 @@ I'm currently open to **freelance projects**, **remote job opportunities**, or *
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🎯 Quiz App  
-A fast-paced quiz app with countdown timer, score tracking, and trivia API integration.  
-🔗 [Live Demo](#) | 💻 [Code](#)
-
-#### 🛍️ Product Store  
-A simple product listing web app with image upload, responsive UI, and context-based state management.  
-🔗 [Live Demo](#) | 💻 [Code](#)
-
-#### 💍 AR Ring Try-On  
-Augmented reality ring try-on experience using MediaPipe Hands and Three.js to display a 3D ring on the user's finger.  
-🔗 [Live Demo](#) | 💻 [Code](#)
-
----
-
 ### 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/yousefharara999)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+
 - 📫 Email: hrarty37@gmail.com
 
 <p align="center">Thanks for stopping by! 😊</p>
