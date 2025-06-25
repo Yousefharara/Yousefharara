@@ -34,6 +34,14 @@ I'm currently open to **freelance projects**, **remote job opportunities**, or *
 
 ---
 
+### 🚀 Featured Projects
+
+#### 💍 AR Ring Try-On  
+Augmented reality ring try-on experience using MediaPipe Hands and Three.js to display a 3D ring on the user's finger.  
+🔗 [Live Demo](https://jewelry-store-project.vercel.app) | 💻 [Code](https://github.com/Yousefharara/Jewelry-Store-Project)
+
+---
+
 ### 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/yousefharara999)
