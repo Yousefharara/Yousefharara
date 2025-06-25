@@ -1,16 +1,59 @@
-## Hi there 👋
 
-<!--
-**Yousefharara/Yousefharara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi there, I'm Yousef Harara</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Frontend & Software Developer | UI/UX Enthusiast | Problem Solver</b><br>
+  Passionate about building modern, interactive, and user-focused web applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+My name is **Yousef Harara**, a Frontend and Software Developer with a strong passion for creating modern, interactive, and user-focused web experiences.
+
+I specialize in using cutting-edge technologies such as **React.js**, **Next.js**, **JavaScript**, and **CSS**, and I also have experience working with **MySQL** to develop dynamic, data-driven applications.
+
+With a keen eye for detail and a love for clean UI/UX design, I thrive on turning complex problems into elegant, intuitive interfaces. I’m continuously learning and staying updated with the latest trends in frontend development, performance optimization, and web accessibility.
+
+I'm currently open to **freelance projects**, **remote job opportunities**, or **internships** where I can grow, collaborate with talented teams, and contribute to impactful digital products.
+
+---
+
+### 🛠️ Skills & Tools
+
+**Languages & Frameworks:**
+
+- 🔹 React.js, Next.js, JavaScript (ES6+), CSS3
+- 🔹 MySQL, REST APIs
+- 🔹 Responsive Design, UI/UX Best Practices
+
+**Tools & Platforms:**
+
+- 🔧 VS Code, GitHub, Figma, Chrome DevTools
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎯 Quiz App  
+A fast-paced quiz app with countdown timer, score tracking, and trivia API integration.  
+🔗 [Live Demo](#) | 💻 [Code](#)
+
+#### 🛍️ Product Store  
+A simple product listing web app with image upload, responsive UI, and context-based state management.  
+🔗 [Live Demo](#) | 💻 [Code](#)
+
+#### 💍 AR Ring Try-On  
+Augmented reality ring try-on experience using MediaPipe Hands and Three.js to display a 3D ring on the user's finger.  
+🔗 [Live Demo](#) | 💻 [Code](#)
+
+---
+
+### 🤝 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/yousefharara999)
+- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📫 Email: hrarty37@gmail.com
+
+<p align="center">Thanks for stopping by! 😊</p>
