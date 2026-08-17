@@ -1,12 +1,6 @@
 <h1 align="center">⚔️ Yousef Harara ⚔️</h1>
 
-<p align="center">
-  <img
-    src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW5uZWJtcWQ5ZTZxdG5peGhqanJoeGNleTUzZGh3YzlhMHJtNGJvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kcKpORRzy95ofrqAEp/giphy.gif"
-    width="100%"
-    alt="Medieval Tavern"
-  />
-</p>
+<p align="center"> <img src="./assets/medieval-tavern.gif" width="100%" alt="Medieval Tavern" /> </p>
 
 <h3 align="center">
   🧑‍💻 Frontend & Software Developer · 🧩 Problem Solver
