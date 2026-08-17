@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">
-  🧑‍💻 Frontend & Software Developer · 🎨 UI/UX Enthusiast · 🧩 Problem Solver
+  🧑‍💻 Frontend & Software Developer · 🧩 Problem Solver
 </h3>
 
 <p align="center">
@@ -45,7 +45,6 @@ My main focus is frontend development, but I also enjoy exploring the wider soft
 
 ### ⚔️ What Drives Me
 
-- 🎨 Modern UI/UX
 - ⚡ Interactive Web Experiences
 - 🧩 Problem Solving
 - 🚀 Performance & Responsive Design
@@ -73,7 +72,7 @@ My main focus is frontend development, but I also enjoy exploring the wider soft
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss" width="55" height="55" alt="Tailwind CSS" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vue" width="55" height="55" alt="Vue" />
+  <img src="https://cdn.simpleicons.org/vue.js" width="55" height="55" alt="Vue" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nuxt" width="55" height="55" alt="Nuxt" />
   &nbsp;&nbsp;
@@ -176,7 +175,6 @@ A modern analytics dashboard focused on presenting data through interactive inte
 ```text
 ┌─────────────────────────────────────────────┐
 │                                             │
-│   🎨 Modern UI / UX                         │
 │   ⚡ Interactive Web Applications            │
 │   📱 Responsive Interfaces                  │
 │   🧊 3D & Creative Experiences              │
