@@ -1,6 +1,6 @@
 <h1 align="center">⚔️ Yousef Harara ⚔️</h1>
 
-<p align="center"> <img src="./assets/giphy.gif" width="100%" alt="Medieval Tavern" /> </p>
+<p align="center"> <img src="https://giphy.com/embed/kcKpORRzy95ofrqAEp" width="100%" alt="Hacker Anime" /> </p>
 
 <h3 align="center">
   🧑‍💻 Frontend & Software Developer · 🧩 Problem Solver
