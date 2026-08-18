@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    align="left"
+    align="right"
     width="400"
     src="./assets/giphy.gif"
     alt="Hacker Anime"
