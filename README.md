@@ -1,13 +1,20 @@
 <h1 align="center">⚔️ Yousef Harara ⚔️</h1>
 
-<p align="center"> <img src="./assets/giphy.gif" width="100%" alt="Hacker Anime" /> </p>
+<p align="center">
+  <img
+    align="left"
+    width="400"
+    src="./assets/giphy.gif"
+    alt="Hacker Anime"
+  />
+</p>
 
 <h3 align="center">
   🧑‍💻 Frontend & Software Developer · 🧩 Problem Solver
 </h3>
 
 <p align="center">
-  <a href="YOUR-PORTFOLIO-URL">
+  <a href="https://yousef-medieval-portfolio.vercel.app/">
     <img
       src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-8B5CF6?style=for-the-badge"
       alt="Portfolio"
@@ -19,7 +26,7 @@
       alt="GitHub"
     />
   </a>
-  <a href="https://linkedin.com/in/yousefharara999">
+  <a href="https://linkedin.com/in/yousefgharara">
     <img
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
@@ -98,7 +105,7 @@ My main focus is frontend development, but I also enjoy exploring the wider soft
 ## 🌐 My Portfolio
 
 <p align="center">
-  <a href="YOUR-PORTFOLIO-URL">
+  <a href="https://yousef-medieval-portfolio.vercel.app/">
     <img
       src="https://img.shields.io/badge/🌐%20EXPLORE%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge"
       alt="Explore Portfolio"
@@ -221,7 +228,7 @@ A modern analytics dashboard focused on presenting data through interactive inte
 
 <p align="center">
 
-  <a href="YOUR-PORTFOLIO-URL">
+  <a href="https://yousef-medieval-portfolio.vercel.app/">
     <img
       src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portfolio"
@@ -235,7 +242,7 @@ A modern analytics dashboard focused on presenting data through interactive inte
     />
   </a>
 
-  <a href="https://linkedin.com/in/yousefharara999">
+  <a href="https://linkedin.com/in/yousefgharara">
     <img
       src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
